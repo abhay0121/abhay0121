@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhay0121
-- 👀 Eveything lowcode and problems to solve using lowcode
-- 🌱 Curently learning to build using Atman by FeldsparTech
-- 💞️ Building software solutions that hitherto were diffciult due to limitations of technology
+- 👀 Interested in eveything lowcode and problems to solve using lowcode
+- 🌱 Currently learning to build using Atman by FeldsparTech
+- 💞️ Would love to connect to build software solutions that hitherto were diffciult due to limitations of technology
 - 📫 reachme abhay@feldspartech.com
 
 <!---
